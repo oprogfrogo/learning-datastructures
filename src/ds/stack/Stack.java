@@ -1,6 +1,6 @@
 package ds.stack;
 
-public class Stack {
+public class Stack { // LIFO (Last In Last Out
 	
 	private int maxSize;
 	private char[] stackArray;
